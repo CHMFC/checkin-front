@@ -4,7 +4,7 @@ Um aplicativo móvel simples, desenvolvido com React Native e Expo, para facilit
 
 ## 📝 Descrição
 
-O **CheckIN** é um aplicativo móvel que une a descoberta inteligente de lugares com uma experiência social conectada. Idealizado por *Gabriela Sotero* e *Henrique Fontaine*, o projeto nasceu da convergência de duas visões complementares sobre experiências urbanas mediadas por tecnologia.
+O **CheckIN** é um aplicativo móvel que une a descoberta inteligente de lugares com uma experiência social conectada. O projeto nasceu da convergência de duas visões complementares sobre experiências urbanas mediadas por tecnologia.
 
 A plataforma combina:
 * **Descoberta de Lugares:** Recomendações contextuais e inteligentes de "rolês", considerando a localização do usuário, suas preferências e o momento.
