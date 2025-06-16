@@ -4,15 +4,22 @@ Um aplicativo móvel simples, desenvolvido com React Native e Expo, para facilit
 
 ## 📝 Descrição
 
-O Check-In App permite que os usuários visualizem uma lista de eventos disponíveis e realizem o check-in de forma rápida e segura, geralmente através da leitura de um QR Code. Ele também mantém um histórico de todos os check-ins realizados pelo usuário.
+O **CheckIN** é um aplicativo móvel que une a descoberta inteligente de lugares com uma experiência social conectada. Idealizado por *Gabriela Sotero* e *Henrique Fontaine*, o projeto nasceu da convergência de duas visões complementares sobre experiências urbanas mediadas por tecnologia.
+
+A plataforma combina:
+* **Descoberta de Lugares:** Recomendações contextuais e inteligentes de "rolês", considerando a localização do usuário, suas preferências e o momento.
+* **Conexão Social:** Funcionalidades que permitem ao usuário saber onde seus amigos estão, facilitando encontros e promovendo interações sociais com base na presença geográfica.
+
+O resultado é uma solução que responde não apenas *"aonde ir?"*, mas também *"com quem?"*. A filosofia do projeto é usar **lugares como destino e pessoas como ponte**, transformando a maneira como descobrimos a cidade e nos conectamos com nossa rede social.
 
 ## ✨ Funcionalidades
 
-* ✅ Visualização de lista de eventos/locais.
-* 📲 Leitura de QR Code para um check-in rápido e eficiente.
-* 👤 Autenticação de usuário (Login/Cadastro).
-* 📜 Histórico de check-ins realizados.
-* 📄 Visualização de detalhes de cada evento.
+* 🗺️ Descoberta de lugares com base em localização, contexto e preferências.
+* 📍 Visualização da localização de amigos em tempo real (com permissão).
+* 📅 Facilitação de encontros e criação de eventos.
+* 📲 Check-in em locais para compartilhar sua presença.
+* 👤 Perfis de usuário e gerenciamento de amizades.
+* 📜 Histórico de locais visitados e encontros.
 
 ## 🛠️ Tecnologias Utilizadas
 
