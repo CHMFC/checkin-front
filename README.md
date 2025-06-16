@@ -49,8 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    # Substitua 'SEU-USUARIO' pelo seu nome de usuário do GitHub
-    git clone [https://github.com/SEU-USUARIO/Check-In.git](https://github.com/SEU-USUARIO/Check-In.git)
+    git clone [https://github.com/CHMFC/checkin-front.git](https://github.com/CHMFC/checkin-front.git)
     ```
 
 2.  **Acesse a pasta do projeto:**
